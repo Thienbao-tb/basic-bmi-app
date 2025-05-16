@@ -2,10 +2,7 @@
 
 A simple and beautiful Flutter app that helps users calculate their Body Mass Index (BMI) and get personalized health feedback.
 
-![Screenshot 1](assets/images/input_bmi.jpg)
-![Screenshot 2](assets/images/result_bmo.jpg)
 
----
 
 ## 📱 Features
 
@@ -56,23 +53,8 @@ flutter run
 - **Dart** – Programming language
 - **Material Design** – UI principles
 
----
 
-## 📂 Folder Structure
 
-```
-lib/
-├── main.dart
-├── screens/
-│   ├── input_screen.dart
-│   └── result_screen.dart
-├── widgets/
-│   └── custom_button.dart
-└── models/
-    └── bmi_calculator.dart
-```
-
----
 
 ## 🤝 Contributing
 
@@ -85,8 +67,3 @@ Feel free to check the [issues page](https://github.com/your-username/bmi_calcul
 
 If you like this app, please consider giving it a ⭐ star to support the project and encourage further development!
 
----
-
-## 📃 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
